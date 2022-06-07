@@ -1,0 +1,5 @@
+composer init : to initiate composer 
+composer install : to install composer 
+library name : iexbase/tron-api
+
+composer require iexbase/tron-api --ignore-platform-reqs

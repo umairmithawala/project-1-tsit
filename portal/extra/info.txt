@@ -1,0 +1,34 @@
+Landig page themes
+
+https://html.crumina.net/woox-crypto/
+
+
+
+Dashboard theme
+
+https://griya.dexignzone.com/xhtml/index-2.html
+
+
+Mind map link
+
+https://miro.com/app/board/o9J_l7e4jOw=/
+
+
+
+rewrite code for extension 
+
+# Run Php without filename extension
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+
+
+super admin login page
+https://teslainu.com/portal/auth/9039asdf3/kodkd8990/lkjasdf/8923lahsd/test.php
+
+http://localhost/work38-TSIT-webportal/portal/auth/9039asdf3/kodkd8990/lkjasdf/8923lahsd/test.php
+
+
+6LdALPEcAAAAAFGMMUWzfw0XrtGcKwB76nKnOwnF //site
+6LdALPEcAAAAAIqxptUnczW2uMKFzKBSaIAdP-OP //secret

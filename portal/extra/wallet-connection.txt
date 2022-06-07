@@ -1,0 +1,34 @@
+https://github.com/iexbase/tron-api
+
+https://github.com/Fenguoz/tron-php
+https://github.com/songning4/PHP-Tron-develop
+https://stackoverflow.com/questions/63423769/tron-wallet-integration-in-php-application
+
+
+https://www.trongrid.io/dashboard/keys
+
+https://trongrid.zendesk.com/hc/en-us/articles/900007033343-Get-started
+
+-- main documentation 
+https://developers.tron.network/reference#api-key
+
+
+//generate address 
+https://developers.tron.network/reference#walletgenerateaddress
+
+//transaction 
+https://developers.tron.network/reference#walletgettransactionsign-1
+https://developers.tron.network/reference#walletbroadcasttransaction-1
+
+//get account balance 
+https://developers.tron.network/reference#getaccountbalance
+
+//transaction list 
+https://developers.tron.network/reference#trc20-transaction-information-by-account-address
+
+
+TRWBqiqoFZysoAeyR1J35ibuyc8EvhUAoY
+TGANMP2PyRRbm8DA7XxiJogai58cz8sJ8y
+
+
+https://github.com/iexbase/tron-api/issues/97
